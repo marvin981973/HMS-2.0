@@ -1,2 +1,2 @@
-# HMS-2.0
-Hotel Management System 2.0 - Laravel
+# hotel
+Hotel booking engine with Laravel 5.1 and AngularJS
